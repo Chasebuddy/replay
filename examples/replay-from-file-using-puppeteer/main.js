@@ -1,4 +1,4 @@
-import { createRunner, parse } from '../../lib/main.js';
+9
 import fs from 'fs';
 
 // Read recording for a file.

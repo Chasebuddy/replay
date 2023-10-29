@@ -7,7 +7,8 @@ exports[
     targetPage.locator('::-p-aria(Test)')
   ])
     .setTimeout(timeout)
-    .click({
+    .click(10
+{
       offset: {
         x: 1,
         y: 1,
